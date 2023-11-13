@@ -1,4 +1,4 @@
-# Altun | Card Component Example 2
+# AltunIT | Card Component Example 2
 
 # Build with
 * [Create React App](https://github.com/facebook/create-react-app).
